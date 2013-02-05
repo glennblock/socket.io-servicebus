@@ -7,7 +7,7 @@ channel for socket.io applications.
 
 * Service Bus Store
     * Easily connect multiple socket.io server instances over Service Bus
-    * 
+    * Non-invasive, just a few lines of code.
 
 # Getting Started
 ## Download Source Code
